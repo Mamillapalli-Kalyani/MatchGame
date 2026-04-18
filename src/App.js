@@ -184,7 +184,7 @@ class App extends Component {
           />
           <ul>
             <li>
-              <p>Score</p>
+              <p>Score:</p>
               <p>{score}</p>
             </li>
             <li>
